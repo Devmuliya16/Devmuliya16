@@ -6,7 +6,7 @@ A passionate Computer engineer from India
 
 - 🌱 I’m currently learning *WebDev & software engineering*
 
-- 💬 Ask me about *CP, WebDev*
+- 💬 Ask me about *CP, WebDev , Data Science*
 
 - ⚡ Fun fact *Ghazal lover*
 
