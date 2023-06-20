@@ -2,11 +2,11 @@ Hi 👋, I'm Muliya Dev
 =====================
 A passionate Computer engineer from India
 -----------------------------------------
-- 🔭 I’m currently working on *Webdev*
+- 🔭 I’m currently working on *Flutter and DataScience projects*
 
-- 🌱 I’m currently learning *WebDev & software engineering*
+- 🤝🏻 Know more about my work here [https://devmuliya.vercel.app](https://devmuliya.vercel.app/)
 
-- 💬 Ask me about *CP, WebDev , Data Science*
+- 💬 Ask me about *CP, DSA, WebDev , Data Science, Flutter*
 
 - ⚡ Fun fact *Ghazal lover*
 
