@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **development projects**
 
-- 👨‍💻 All of my projects are available at [https://devmuliya.vercel.app/project](https://devmuliya.vercel.app/project)
+- 👨‍💻 All of my projects are available at [https://devmuliya.vercel.app/project](https://devmuliya.vercel.app/projects)
 
 - 💬 Ask me about **CP, DSA, Leetcode, Flutter**
 
