@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmuliya16&label=Profile%20views&color=0e75b6&style=flat" alt="devmuliya16" /> </p>
 
-- 🔭 I’m currently working on **Flutter and DataScience projct**
+- 🔭 I’m currently working as **Full-time software engineer**
 
-- 👯 I’m looking to collaborate on **development projects**
+- 👯 I’m looking to collaborate on **development projects in MERN, Springboot, app developmet**
 
 - 👨‍💻 All of my projects are available at [https://devmuliya.vercel.app/project](https://devmuliya.vercel.app/projects)
 
-- 💬 Ask me about **CP, DSA, Leetcode, Flutter**
+- 💬 Ask me about **Javascript, Java, React, Node, MERN, Springboot, Flutter**
 
 - 📫 How to reach me **https://devmuliya.vercel.app**
 
 - 📄 Know about my experiences [https://devmuliya.vercel.app](https://devmuliya.vercel.app)
 
-- ⚡ Fun fact **love coding with music**
+- ⚡ **love coding with music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
