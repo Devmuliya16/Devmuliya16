@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Full-time software engineer**
 
-- 👯 I’m looking to collaborate on **development projects in MERN, Springboot, app developmet**
+- 👯 I’m looking to collaborate on **development projects in MERN, Springboot, app development**
 
 - 👨‍💻 All of my projects are available at [https://devmuliya.vercel.app/project](https://devmuliya.vercel.app/projects)
 
